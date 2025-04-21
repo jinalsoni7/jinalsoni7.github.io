@@ -17,7 +17,7 @@ author = "Jinal Soni"
 description = "Jinal Soni's personal website"
 keywords = "blog,developer,personal"
 info = ["Full Stack Software Engineer"]
-avatarURL = "images/avatar.jpg"
+avatarURL = "images/avatar.JPG"
 #gravatar = "john.doe@example.com"
 dateFormat = "January 2, 2006"
 since = 2012
@@ -36,7 +36,7 @@ hideColorSchemeToggle = false
 # Series see also post count
 maxSeeAlsoItems = 5
 # Custom CSS
-customCSS = []
+customCSS = ["css/custom.css"]
 # Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
 customSCSS = []
 
@@ -122,11 +122,11 @@ series = "series"
 tag = "tags"
 author = "authors"
 
-[[params.social]]
-name = "Github"
-icon = "fa fa-2x fa-github"
-weight = 1
-url = "https://www.github.com/jinalsoni7/"
+# [[params.social]]
+# name = "Github"
+# icon = "fa fa-2x fa-github"
+# weight = 1
+# url = "https://www.github.com/jinalsoni7/"
 
 # [[params.social]]
 # name = "Gitlab"
