@@ -61,7 +61,7 @@ jobs:
             --minify \
             --baseURL "${{ steps.pages.outputs.base_url }}/"          
       - name: Upload artifact
-        uses: actions/upload-pages-artifact@v2
+        uses: actions/upload-pages-artifact@v1
         with:
           path: ./public
 
@@ -73,18 +73,11 @@ jobs:
     runs-on: ubuntu-latest
     needs: build
     steps:
-      - name: Resolve upload-artifact explicitly
-        uses: actions/upload-artifact@v3.1.2
-        with:
-          name: dummy
-          path: README.md
-        if: false  # prevent it from running
-
       - name: Download artifact
         uses: actions/download-pages-artifact@v2
 
       - name: Deploy to GitHub Pages
         id: deployment
-        uses: actions/deploy-pages@v2
+        uses: actions/deploy-pages@v1
 
 
