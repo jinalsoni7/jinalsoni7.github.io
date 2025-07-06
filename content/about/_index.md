@@ -25,7 +25,7 @@ I hold a Master’s degree in Computer Science from the State University of New 
 
 ### Outside of Work
 
-Outside of coding, I enjoy reading and playing the drums. 
+Outside of coding, I enjoy reading, drumming, watching movies, photography, baking and volunteering at my local cat rescue. 
 
 ---
 
