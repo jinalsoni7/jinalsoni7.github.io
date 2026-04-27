@@ -1,8 +1,18 @@
-# Jinal Soni
+Hello,
 
-This repository contains the source code for my personal website.
+I'm Jinal, and welcome to my personal portfolio website! 
 
-I am a software engineer transitioning toward research in quantum computing and quantum information theory. The website includes information about my background, research interests, and independent study in quantum mechanics and quantum computation.
+This repository contains the source for my professional portfolio showcasing my work in software engineering, quantum computing research interests, and technical projects.
 
-Website:  
-https://jinalsoni7.github.io/
+## Built With
+
+This portfolio is built with:
+- **Hugo** – Static site generator
+- **Coder theme** – Clean, minimal design
+- **GitHub Pages** – Hosting
+
+## Let's Connect
+
+I'm open to connecting with fellow engineers, researchers, and professionals interested in Quantum computing and information theory.
+
+Visit my [contact page](/contact/) or reach out on your preferred platform.
