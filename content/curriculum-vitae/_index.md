@@ -7,7 +7,7 @@ last updated: 2026-04-25
 
 You can download my CV below:
 
-[Download CV (PDF)](https://drive.google.com/file/d/1zOqnR1OgShwKLk5hEXVP9E_7Ut_vkXxF/view?usp=drive_link)
+[Download CV (PDF)](https://drive.google.com/file/d/1pow2j_smp4LaXtPabe0hBePzo1jQ-3Wo/view?usp=drive_link)
 
 ---
 
