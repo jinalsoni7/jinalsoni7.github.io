@@ -18,6 +18,8 @@ keywords = "quantum computing, quantum information, research, computer science"
 info = ["Aspiring Researcher in Quantum Computing and Information"]
 avatarURL = "images/avatar.jpg"
 dateFormat = "January 2, 2006"
+googleAnalytics = "G-W8MZBGN1N7"
+
 
 # Right To Left, shift content direction for languagues such as Arabic
 rtl = false
@@ -37,15 +39,6 @@ maxSeeAlsoItems = 5
 
 # Custom CSS
 customCSS = ["css/custom.css"]
-
-# Custom SCSS, file path is relative to Hugo's asset folder (default: {your project root}/assets)
-customSCSS = []
-
-# Custom JS
-customJS = []
-
-# Custom remote JS files
-customRemoteJS = []
 
 [taxonomies]
 category = "categories"
