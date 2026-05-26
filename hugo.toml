@@ -11,6 +11,10 @@ canonifyURLs = true
 [markup.highlight]
 noClasses = false
 
+[services]
+  [services.googleAnalytics]
+    ID = "G-W8MZBGN1N7"
+
 [params]
 author = "Jinal Soni"
 description = "Portfolio of Jinal Soni – software engineer transitioning toward research in quantum computing and quantum information theory."
