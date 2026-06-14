@@ -19,9 +19,9 @@ This independent work has been central to developing the mathematical foundation
 
 ###### Solutions to problem sets
 
-1. [The Theoretical Minimum - Classical Mechanics](https://drive.google.com/drive/folders/1sbkufGO_OjO9-0ysoIb4ZiKnzS1r4F_V?usp=drive_link) 
-2. [The Theoretical Minimum - Quantum Mechanics](https://drive.google.com/drive/folders/1JN7riPPm3kEneiZUl_WzlhM6KupOwlfb?usp=drive_link)
-3. [Introduction to Classical and Quantum Computing](https://drive.google.com/drive/u/0/folders/18qUna_-vsAUsApba4veUlnktoUmpcZ0A)
+1. [The Theoretical Minimum - Classical Mechanics by Leonard Susskind](https://drive.google.com/drive/folders/1sbkufGO_OjO9-0ysoIb4ZiKnzS1r4F_V?usp=drive_link) 
+2. [The Theoretical Minimum - Quantum Mechanics by Leonard Susskind](https://drive.google.com/drive/folders/1JN7riPPm3kEneiZUl_WzlhM6KupOwlfb?usp=drive_link)
+3. [Introduction to Classical and Quantum Computing by Thomas G. Wong](https://drive.google.com/drive/u/0/folders/18qUna_-vsAUsApba4veUlnktoUmpcZ0A)
 4. [Quantum Computation and Quantum Information by Nielsen and Chuang](https://drive.google.com/drive/folders/1yhz27H1xXLY9idi8dltxWrX2Mwxp7d_V?usp=drive_link) (Ongoing)
 
 ###### Quantum Algorithms
