@@ -13,9 +13,7 @@ More broadly, I am also interested in quantum algorithms and quantum cryptograph
 
 In preparation for doctoral research, I have undertaken self-directed study in quantum mechanics and quantum computation, including solving problem sets, reading research papers, and constructing quantum circuits and algorithms; these materials are compiled and shared here as part of a systematic effort to build foundational knowledge and contribute useful resources to the broader community.
 
-This study is supported by a concurrent deep dive into the mathematical foundations of the field, including a careful reading of Linear Algebra by Georgi Shilov to build the rigorous algebraic fluency necessary for quantum information science.
-
-This independent work has been central to developing the mathematical foundation and technical fluency necessary for research in quantum information science.
+This study is complemented by a concurrent exploration of the field’s mathematical foundations, including a careful reading of Linear Algebra by Gilbert Strang to develop the algebraic fluency essential for quantum information science.
 
 ###### Solutions to problem sets
 
