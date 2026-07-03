@@ -11,15 +11,18 @@ My academic interests lie at the intersection of computation, physics, and mathe
 
 Following a T-shaped research approach, I aim to pursue depth in Quantum Error Correction, while maintaining broader interests in quantum algorithms and quantum cryptography.
 
-Over the past year, I have pursued structured independent study in classical mechanics, quantum mechanics, and quantum computation, working through problem sets and building a strong foundation from:
+Over the past year, I have pursued structured independent study in classical mechanics, quantum mechanics, and quantum computation, working through problem sets and building a strong foundation in preparation for doctoral research. Details of this coursework, along with my project work, are on my Research Preparation page.
+
+<!-- Over the past year, I have pursued structured independent study in classical mechanics, quantum mechanics, and quantum computation, working through problem sets and building a strong foundation from:
 
 1. [The Theoretical Minimum (Vol. I & II) by Leonard Susskind](https://theoreticalminimum.com/)
 2. [Introduction to Classical and Quantum Computing by Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf)
-3. [Quantum Computation and Quantum Information by Michael Nielsen and Isaac Chuang](https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information) (Currently Studying)
+3. [Introduction to Linear Algebra by Gilbert Strang](https://web.mit.edu/18.06/www/)
+4. [Quantum Computation and Quantum Information by Michael Nielsen and Isaac Chuang](https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information) (Currently Studying)
 
 Through this work, I have developed mathematical fluency in operator formalism and strengthened my understanding of quantum algorithmic structure and quantum circuit models.
 
-I am preparing to pursue doctoral research in quantum computing and information theory.
+I am preparing to pursue doctoral research in quantum computing and information theory. -->
 
 
 ### Community Engagement & Extra-Curriculars

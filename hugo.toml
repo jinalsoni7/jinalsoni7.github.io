@@ -68,6 +68,12 @@ icon = "fa fa-2x fa-linkedin"
 weight = 4
 url = "https://www.linkedin.com/in/jinalsoni7/"
 
+[[params.social]]
+name = "Web of Science"
+icon = "fa fa-2x fa fa-user-circle"
+weight = 4
+url = "https://www.webofscience.com/wos/author/record/QOB-2231-2026"
+
 [languages.en]
 languageName = ":uk:"
 

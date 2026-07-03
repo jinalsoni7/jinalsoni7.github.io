@@ -4,6 +4,7 @@ last updated: 2026-06-14
 ---
 
 <!-- This page documents independent study and technical materials related to my preparation for research in quantum computing and quantum information theory. -->
+<!-- My research interests center on Quantum Error Correction, Quantum Information Theory, and Quantum Computing, with a particular focus on the theoretical foundations of reliable, fault-tolerant quantum computation. I'm especially interested in how robust error-correcting codes can close the gap between theoretical fault-tolerance thresholds and the messier realities of large-scale hardware: device-specific noise, decoherence, and the constraints that come with actual physical qubits rather than idealized ones. More broadly, I'm interested in quantum algorithms and quantum cryptography, and in how information-theoretic principles shape what's computable, what's secure, and what scales. -->
 
 My research interests lie in Quantum Error Correction, Quantum Information Theory, and Quantum Computing, with a primary focus on the theoretical foundations of reliable and fault-tolerant quantum computation.
 
@@ -11,9 +12,9 @@ I am particularly interested in understanding how robust quantum error-correctin
 
 More broadly, I am also interested in quantum algorithms and quantum cryptography, especially in how information-theoretic principles shape computation, security, and the scalability of quantum technologies.
 
-In preparation for doctoral research, I have undertaken self-directed study in quantum mechanics and quantum computation, including solving problem sets, reading research papers, and constructing quantum circuits and algorithms; these materials are compiled and shared here as part of a systematic effort to build foundational knowledge and contribute useful resources to the broader community.
+In preparation for doctoral research, I have undertaken self-directed study in quantum mechanics and quantum computation, including solving problem sets, reading research papers, and constructing quantum circuits and algorithms; these materials are compiled and shared here as part of a systematic effort to build foundational knowledge and contribute useful resources to the broader community. 
 
-This study is complemented by a concurrent exploration of the field’s mathematical foundations, including a careful reading of Linear Algebra by Gilbert Strang to develop the algebraic fluency essential for quantum information science.
+This study is complemented by a concurrent exploration of the field’s mathematical foundations, including a careful reading of [Linear Algebra by Gilbert Strang](https://web.mit.edu/18.06/www/) to develop the algebraic fluency essential for quantum information science.
 
 ###### Solutions to problem sets
 
