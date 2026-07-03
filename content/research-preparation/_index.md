@@ -4,7 +4,6 @@ last updated: 2026-06-14
 ---
 
 <!-- This page documents independent study and technical materials related to my preparation for research in quantum computing and quantum information theory. -->
-<!-- My research interests center on Quantum Error Correction, Quantum Information Theory, and Quantum Computing, with a particular focus on the theoretical foundations of reliable, fault-tolerant quantum computation. I'm especially interested in how robust error-correcting codes can close the gap between theoretical fault-tolerance thresholds and the messier realities of large-scale hardware: device-specific noise, decoherence, and the constraints that come with actual physical qubits rather than idealized ones. More broadly, I'm interested in quantum algorithms and quantum cryptography, and in how information-theoretic principles shape what's computable, what's secure, and what scales. -->
 
 My research interests lie in Quantum Error Correction, Quantum Information Theory, and Quantum Computing, with a primary focus on the theoretical foundations of reliable and fault-tolerant quantum computation.
 
