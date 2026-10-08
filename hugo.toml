@@ -83,18 +83,28 @@ weight = 1
 url = "about/"
 
 [[languages.en.menu.main]]
-name = "Research Preparation"
+name = "Projects"
 weight = 2
-url = "research-preparation/"
+url = "projects/"
+
+[[languages.en.menu.main]]
+name = "Resources"
+weight = 3
+url = "resources/"
+
+# [[languages.en.menu.main]]
+# name = "Research Preparation"
+# weight = 2
+# url = "research-preparation/"
 
 [[languages.en.menu.main]]
 name = "Curriculum Vitae"
-weight = 3
+weight = 4
 url = "curriculum-vitae/"
 
 [[languages.en.menu.main]]
 name = "Contact"
-weight = 4
+weight = 5
 url = "contact/"
 
 [markup]
