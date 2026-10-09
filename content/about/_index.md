@@ -1,37 +1,18 @@
 ---
 title: "About Me"
-last updated: 2026-04-25
+last updated: 2026-10-09
 ---
 
-Hi! I am Jinal.
+Hello, I'm Jinal.
 
-I hold a Master’s degree in Computer Science and have professional experience as a full stack software engineer. I am currently transitioning toward research in quantum computing and quantum information theory, with a primary interest in Quantum Error Correction.
+I am a computer scientist preparing for research in quantum computing and quantum information, with a primary interest in quantum error correction (QEC): how quantum information can be protected so that computation stays reliable at scale. I also follow quantum algorithms and quantum cryptography, which share its information-theoretic foundations.
 
-My academic interests lie at the intersection of computation, physics, and mathematics, particularly in understanding how quantum information can be protected, manipulated, and utilized for reliable computation.
+My study of QEC has followed the field's own progression: stabilizer codes, then surface codes, and now bivariate bicycle (BB) codes, whose low-density parity-check structure and hardware-friendly connectivity make them a promising route to fault tolerance. I am drawn to how code design can meet the constraints of real devices.
 
-Following a T-shaped research approach, I aim to pursue depth in Quantum Error Correction, while maintaining broader interests in quantum algorithms and quantum cryptography.
+I came to quantum computing during a career break, when I returned to physics, a long-standing curiosity. Mathematics has always been my strength: I earned an A+ in my undergraduate Calculus, Linear Algebra and Advanced Engineering Mathematics courses. Quantum computing brings together computer science, mathematics and physics like no other field. I have since studied it systematically through textbooks (listed under Resources) and research papers, and I implement what I learn in Qiskit and Quirk, including Shor's code, the quantum Fourier transform, phase estimation and Grover's algorithm.
 
-Over the past year, I have pursued structured independent study in classical mechanics, quantum mechanics, and quantum computation, working through problem sets and building a strong foundation in preparation for doctoral research. Details of this coursework, along with my project work, are on my Research Preparation page.
+I hold a Master's in Computer Science from the State University of New York at Albany, where I spent a semester on neural-network approaches to emotion recognition, focused on data preparation and prototype models. I then worked for three years as a full-stack software engineer, building production applications end to end, with scale, reliability and testing part of the daily work.
 
-<!-- Over the past year, I have pursued structured independent study in classical mechanics, quantum mechanics, and quantum computation, working through problem sets and building a strong foundation from:
+Independent study has taken me far, and I now want to learn within a research group. I am seeking a thesis-based master's to build research experience under experienced supervisors.
 
-1. [The Theoretical Minimum (Vol. I & II) by Leonard Susskind](https://theoreticalminimum.com/)
-2. [Introduction to Classical and Quantum Computing by Thomas G. Wong](https://www.thomaswong.net/introduction-to-classical-and-quantum-computing-1e4p.pdf)
-3. [Introduction to Linear Algebra by Gilbert Strang](https://web.mit.edu/18.06/www/)
-4. [Quantum Computation and Quantum Information by Michael Nielsen and Isaac Chuang](https://en.wikipedia.org/wiki/Quantum_Computation_and_Quantum_Information) (Currently Studying)
-
-Through this work, I have developed mathematical fluency in operator formalism and strengthened my understanding of quantum algorithmic structure and quantum circuit models.
-
-I am preparing to pursue doctoral research in quantum computing and information theory. -->
-
-
-### Community Engagement & Extra-Curriculars
-
-###### NYC Quantum Computing Meetups
-Regular attendee of monthly quantum computing meetups in New York City, engaging with researchers, practitioners, and quantum enthusiasts from diverse backgrounds and all age groups to stay current on emerging topics in this field.
-
-###### Volunteering
-Past volunteer at a local animal rescue and occasional foster caregiver for cats, providing care and support to animals in need.
-
-###### Personal Interests 
-Outside of work, I enjoy reading, drumming, watching movies and dancing. 
+Outside research, I enjoy reading, movies, drumming and dancing, and I have fostered rescue cats.

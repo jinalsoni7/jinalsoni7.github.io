@@ -3,7 +3,7 @@ title: "Contact"
 last updated: 2026-03-17
 ---
 
-I welcome inquiries related to research, academic opportunities, or collaboration.
+I welcome conversations with prospective supervisors, research groups, and admissions committees, as well as inquiries about research collaboration. The best way to reach me is by email.
 
 **Email**  
 sjinal.795@gmail.com
