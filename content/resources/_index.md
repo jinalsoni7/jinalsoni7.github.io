@@ -15,8 +15,8 @@ last updated: 2026-10-08
 
 ## Papers
 
-1. [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/pdf/quant-ph/9809016)
-2. [Quantum Error Correction: An Introductory Guide](https://arxiv.org/pdf/1907.11157)
+1. [An Introduction to Quantum Computing for Non-Physicists](https://arxiv.org/abs/quant-ph/9809016)
+2. [Quantum Error Correction: An Introductory Guide](https://arxiv.org/abs/1907.11157)
 
 
 ## Community

@@ -17,7 +17,7 @@ noClasses = false
 
 [params]
 author = "Jinal Soni"
-description = "Portfolio of Jinal Soni – software engineer transitioning toward research in quantum computing and quantum information theory."
+description = "Portfolio of Jinal Soni, MS in Computer Science and software engineer focused on quantum error correction and quantum information"
 keywords = "quantum computing, quantum information, research, computer science"
 info = ["MSc CS | Software Engineer | Quantum Information"]
 avatarURL = "images/avatar.jpg"

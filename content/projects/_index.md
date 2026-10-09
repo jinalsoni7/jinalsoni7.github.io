@@ -8,10 +8,6 @@ last updated: 2026-10-09
 A comprehensive collection of quantum algorithms implemented using IBM's Qiskit framework. This project contains implementations of key quantum algorithms, including oracle-based algorithms and search algorithms, with both notebook and Python script versions.
 
 
-## [Neural Network Perceptron Implementation in Python](https://github.com/jinalsoni7/perceptron-poc)
-
-This project implements a simple neural network to classify handwritten digits from the MNIST dataset as "0" or "not 0". It uses the sigmoid activation function, quadratic cost, and learns via gradient descent and backpropagation.
-
 ## Quantum Circuit Implementations in Quirk
 
 [Quantum Circuit for Classical Adder](https://bit.ly/46Nke8z) 
